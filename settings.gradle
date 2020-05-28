@@ -1,0 +1,2 @@
+rootProject.name='icreamguide2'
+include ':app'
